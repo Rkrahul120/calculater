@@ -1,0 +1,8 @@
+.calculater{
+    width: fit-content;
+    border: 2px solid violet;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:pink ;
+    border-radius: 5px;
+}
